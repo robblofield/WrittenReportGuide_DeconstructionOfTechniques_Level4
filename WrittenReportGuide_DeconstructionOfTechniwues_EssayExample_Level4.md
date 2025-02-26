@@ -38,7 +38,7 @@ Blender offers various tools to assist with texel density management, including 
 
 
 
-Strategic Seam Placement
+### Strategic Seam Placement
 
 
 
@@ -46,7 +46,7 @@ Seams are necessary to unfold a 3D model into a 2D UV map. Placing seams strateg
 
 
 
-Efficient UV Layouts
+### Efficient UV Layouts
 
 
 
@@ -54,7 +54,7 @@ Techniques such as overlapping symmetrical parts and using a consistent UV scale
 
 
 
-Utilizing Blender’s UV Tools
+### Utilizing Blender’s UV Tools
 
 
 
