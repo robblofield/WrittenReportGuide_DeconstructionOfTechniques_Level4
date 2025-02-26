@@ -66,7 +66,7 @@ Blender also supports multi-object UV editing, which enables artists to unwrap m
 
 
 
-### 5. Ensuring Consistent Texel Density Importance in Game Assets
+## 5. Ensuring Consistent Texel Density Importance in Game Assets
 
 Consistent texel density ensures that textures appear uniformly detailed across all game assets. Without proper texel density management, some objects may appear sharper or blurrier than others, leading to visual inconsistencies. (Polycount Wiki, 2023)
 
